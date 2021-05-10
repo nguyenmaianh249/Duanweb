@@ -19,6 +19,7 @@
     width: 268px;
     height: 280px;
     position: absolute;
+    border-radius: 12px;
 }
 
 #prtitle {
@@ -35,6 +36,17 @@
     position: static;
     top: 0px;
     left: 0px;
+}
+
+#protitle {
+    width: 111px;
+    height: 27px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-decoration: none;
+    color: #151515;
 }
 
 .fontpop {
@@ -167,7 +179,7 @@
     font-weight: 600;
     font-size: 12px;
     line-height: 18px;
-    color: gray;
+    color: #a9a9a9;
     position: absolute;
 }
 
@@ -212,9 +224,10 @@
     top: 12px;
     left: 16px;
     font-weight: 700;
-    font-size: 12px;
+    font-size: 15px;
     color: white;
     position: absolute;
+    text-decoration: none;
 }
 
 #right {
@@ -240,12 +253,17 @@
     position: absolute;
 }
 
+#tym:hover {
+    color: red;
+}
+
 #add {
     width: 116px;
     height: 23px;
     top: 6px;
     left: 36px;
     font-weight: 700;
-    font-size: 12px;
+    font-size: 15px;
+    color: #151515;
     position: absolute;
 }
