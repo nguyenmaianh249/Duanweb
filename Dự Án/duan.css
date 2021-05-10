@@ -1,0 +1,263 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#product {
+    border: 1px solid gainsboro;
+    width: 869px;
+    height: 280px;
+    top: 954px;
+    left: 375px;
+    border-radius: 12px;
+    position: absolute;
+}
+
+#img {
+    background-color: gainsboro;
+    width: 268px;
+    height: 280px;
+    position: absolute;
+    border-radius: 12px;
+}
+
+#prtitle {
+    width: 269px;
+    height: 212px;
+    top: 32px;
+    left: 300px;
+    position: absolute;
+}
+
+#title {
+    width: 269px;
+    height: 75px;
+    position: static;
+    top: 0px;
+    left: 0px;
+}
+
+#protitle {
+    width: 111px;
+    height: 27px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-decoration: none;
+    color: #151515;
+}
+
+.fontpop {
+    font-family: 'Poppins', sans-serif;
+}
+
+#smalldecript {
+    font-family: Open sans-serif;
+    color: #a9a9a9;
+}
+
+#sao {
+    width: 108px;
+    height: 20px;
+    left: 0px;
+    top: 55px;
+    position: static;
+}
+
+.star {
+    height: 13.5px;
+}
+
+#decript {
+    width: 237px;
+    height: 112px;
+    top: 124px;
+    left: 0px;
+    position: absolute;
+}
+
+#fresheness {
+    width: 74px;
+    left: 0px;
+    top: 0px;
+    color: #a9a9a9;
+}
+
+.decpt {
+    height: 19px;
+    font-family: Open sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 19px;
+}
+
+#new {
+    width: 113px;
+    left: 106px;
+    top: 0px;
+    position: absolute;
+}
+
+#delivery {
+    width: 53px;
+    left: 0px;
+    top: 31px;
+    position: absolute;
+    color: #a9a9a9;
+}
+
+#europe {
+    width: 48px;
+    left: 106px;
+    top: 31px;
+    position: absolute;
+    color: #a9a9a9;
+}
+
+#stock {
+    width: 36px;
+    left: 0px;
+    top: 62px;
+    position: absolute;
+    color: #a9a9a9;
+}
+
+#pcs {
+    width: 50px;
+    left: 106px;
+    top: 62px;
+    position: absolute;
+    color: #6A983C;
+}
+
+#farm {
+    width: 34px;
+    top: 93px;
+    color: #a9a9a9;
+    position: absolute;
+}
+
+#gtf {
+    width: 131px;
+    top: 93px;
+    left: 106px;
+    position: absolute;
+    color: #a9a9a9;
+}
+
+#USD {
+    width: 91px;
+    height: 27px;
+    top: 32px;
+    left: 665px;
+    position: absolute;
+    font-size: 18px;
+}
+
+#prevalue {
+    width: 35px;
+    height: 18px;
+    font-size: 12px;
+    font-weight: bold;
+    top: 59px;
+    left: 665px;
+    font-style: normal;
+    line-height: 18px;
+    color: #a9a9a9;
+    position: absolute;
+    text-decoration: line-through;
+}
+
+#freeship {
+    width: 84px;
+    height: 18px;
+    top: 93px;
+    left: 665px;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: #a9a9a9;
+    position: absolute;
+}
+
+#delivertime {
+    width: 92px;
+    height: 16px;
+    top: 111px;
+    left: 665px;
+    font-family: Open sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16.34px;
+    color: #a9a9a9;
+    position: absolute;
+}
+
+#detailandadd {
+    width: 164px;
+    height: 94px;
+    top: 154px;
+    left: 673px;
+    position: absolute;
+}
+#productdetail {
+    display: block;
+    border: 2px solid black;
+    background-color: #6A983C;
+    height: 47px;
+    border-radius: 12px;
+    padding: 12px 16px;
+    text-decoration: none;
+}
+
+#productdetail:hover {
+    box-shadow: 0px 0px 15px  rgb(106, 152, 25);
+    background-color: rgb(122, 181, 62);
+}
+
+#detail {
+    font-weight: 700;
+    font-size: 15px;
+    color: white;
+}
+
+#right {
+    right:16px;
+    top:18px;
+    position: absolute;
+    color: white;
+}
+#addtolist {
+    width: 164px;
+    height: 35px;
+    top: 59px;
+    border-radius: 12px;
+    padding: 6px 12px 6px 12px;
+    background-color: #f5f5f5;
+    position: absolute;
+}
+
+#tym {
+    top: 9.5px;
+    left: 12px;
+    position: absolute;
+}
+
+#tym:hover {
+    color: red;
+}
+
+#add {
+    width: 116px;
+    height: 23px;
+    top: 6px;
+    left: 36px;
+    font-weight: 700;
+    font-size: 15px;
+    color: #151515;
+    position: absolute;
+}
